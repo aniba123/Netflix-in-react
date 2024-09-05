@@ -1,0 +1,31 @@
+.main-page{
+    width: 100%;
+    height: 85vh;
+    background-color: black;
+    display: flex;
+}
+.text-area{
+    width: 50%;
+    color: aliceblue;
+    height: 85vh;
+} 
+.para1{
+    font-size: 25px;
+    color: rgb(230, 234, 237);
+    padding-top: 20px;
+    padding-left: 200px;
+    font-family:  Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+h6{
+    font-weight:bolder;
+    font-family:  Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-size: 42px;
+    padding-top: 150px;
+    padding-left: 200px;
+}
+.img-div1{
+    width: 50%;
+    display: flex;
+    justify-content: start;
+    align-items:center;
+}

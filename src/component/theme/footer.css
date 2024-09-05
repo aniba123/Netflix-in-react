@@ -1,0 +1,111 @@
+.main-footer{
+    width: 100%;
+    height: 120vh;
+    background-color: black;
+    color: aliceblue;
+    justify-content: space-between;
+}
+.main-footer ul{
+    list-style: none;
+    margin-top: 25px;
+}
+.main-footer ul li{
+    width: 72%;
+    height: 14vh;
+    background-color: rgb(43, 42, 42);
+    margin-top: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    padding-left:  20px;
+    margin-left: 180px;
+}
+.main-footer ul li:hover{
+    background-color: rgb(61, 59, 59);
+}
+h5{
+    font-weight: 900;
+    font-size: 56px;
+    padding-top: 15px;
+    padding-left: 330px;
+    color: aliceblue;
+}
+.gmail{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+}
+.space{
+    width: 100%;
+    height: 1.5vh;
+    background-color: rgb(91, 89, 89);
+}
+.bottom-links{
+    width: 100%;
+    background-color:black;
+    color: rgb(193, 195, 196);
+}
+.links{
+    padding:70px 150px;
+}
+.main1{
+    width: 100%;
+    display: flex;
+}
+.div1links{
+    width: 30%;
+}
+.div1links ul{
+    list-style: none;
+    margin-top: 10px;   
+}
+.div1links ul li{
+    padding: 10px;
+}
+.div1links ul li a{
+    color: rgb(198, 199, 200);
+}
+.div2links{
+    width: 30%;
+}
+.div2links ul{
+    list-style: none;
+    margin-top: 10px;   
+}
+.div2links ul li{
+    padding: 10px;
+}
+.div2links ul li a{
+    color: rgb(198, 199, 200);
+}
+
+.div3links{
+    width: 30%;
+}
+.div3links ul{
+    list-style: none;
+    margin-top: 10px;   
+}
+.div3links ul li{
+    padding: 10px;
+}
+.div3links ul li a{
+    color: rgb(198, 199, 200);
+}
+
+
+
+.div4links{
+    width: 30%;
+}
+.div4links ul{
+    list-style: none;
+    margin-top: 10px;   
+}
+.div4links ul li{
+    padding: 10px;
+}
+.div4links ul li a{
+    color: rgb(198, 199, 200);
+}

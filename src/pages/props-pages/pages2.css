@@ -1,0 +1,32 @@
+.main-page{
+    width: 100%;
+    height: 85vh;
+    background-color: black;
+    display: flex;
+}
+.text-area2{
+    width: 50%;
+    color: aliceblue;
+} 
+.para2{
+    width: 80%;
+    font-size: 25px;
+    color: rgb(230, 234, 237);
+    font-family:  Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+.heading{
+    width: 60%;
+    padding-left: 0px;
+    font-weight:900;
+    font-family:  Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-size: 46px;
+}
+.self-img{
+    width: 80%;
+}
+.img-div{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items:center;
+}
